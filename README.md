@@ -1,35 +1,18 @@
 # Student-Management
 
-Student Management is a simple Python-based project used to manage and display student information. It stores basic details such as student name, enrollment number, and course.
 
-Features
+# Student Management
 
-Add student details
+This is a simple Python-based Student Management project.
+It is used to store and display basic student information.
 
-Store student information
+## Features
+- Add student details
+- Store student information
+- Display student records
 
-Display student records
+## Technology Used
+- Python
+- Git
+- GitHub
 
-Easy to modify and update
-
-Technologies Used
-
-Python
-
-Git
-
-GitHub
-
-Project Files
-
-student.py – Contains the Python code for managing student information.
-
-README.md – Contains the project description and information.
-
-Purpose
-
-The purpose of this project is to demonstrate basic Python programming along with Git and GitHub operations such as creating a repository, committing changes, creating branches, merging branches, and pushing updates.
-
-Author
-
-Krish Kumar Varman
